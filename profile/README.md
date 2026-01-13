@@ -18,6 +18,4 @@ Perfil organizacional da Sala de Situação da Universidade de Brasília (UNB). 
 
 ## Contato
 
-- Email: sala.de.situacao@unb.br
-- Responsável: equipe.sala@unb.br
-- Observações: utilize issues neste repositório para solicitações formais.
+- Email: sds@unb.br
