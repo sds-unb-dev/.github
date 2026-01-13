@@ -33,13 +33,3 @@ Este repositório centraliza arquivos e templates usados por todos os repositór
 
 - Email: sala.de.situacao@unb.br
 - Para solicitações formais ou reportes de segurança, utilize as instruções em `SECURITY.md`.
-
----
-
-Este arquivo segue boas práticas para repositórios `.github`: objetivo claro, inventário dos recursos e instruções básicas de uso e manutenção.
----
-
-Se quiser, posso também:
-- adicionar templates de `ISSUE_TEMPLATE` e `PULL_REQUEST_TEMPLATE` prontos;
-- criar um `CONTRIBUTING.md` mais detalhado;
-- adicionar exemplos de `workflow` reutilizáveis no `.github/workflows/`.
